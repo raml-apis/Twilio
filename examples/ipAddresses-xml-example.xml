@@ -1,5 +1,5 @@
 <TwilioResponse>
-    <IpAddresses [paging data]>
+    <IpAddresses end="0" firstpageuri="/2010-04-01/Accounts/AC32a3c49700934481addd5ce1659f04d2/SIP/IpAccessControlLists/ALccac9a2c6a6d0354d75b836b45210200/IpAddresses.xml?PageSize=50&amp;Page=0" nextpageuri="" page="0" pagesize="50" previouspageuri="" start="0" uri="/2010-04-01/Accounts/AC32a3c49700934481addd5ce1659f04d2/SIP/IpAccessControlLists/ALccac9a2c6a6d0354d75b836b45210200/IpAddresses.xml?PageSize=50&amp;Page=0" lastpageuri="/2010-04-01/Accounts/AC32a3c49700934481addd5ce1659f04d2/SIP/IpAccessControlLists/ALccac9a2c6a6d0354d75b836b45210200/IpAddresses.xml?PageSize=50&amp;Page=0" numpages="1" total="1">
         <IpAddress>
             <Sid>IP6fbe2e8619a14fabaefaf4fb131c0b9d</Sid>
             <FriendlyName>My office IP Address</FriendlyName>
