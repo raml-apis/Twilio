@@ -29,7 +29,7 @@ newTestAppName = "Notebook Test App (upd)"
 
 ```javascript
 // Read about the Twilio RAML API at https://anypoint.mulesoft.com/apiplatform/popular/admin/#/dashboard/apis/8031/versions/8196/contracts
-API.createClient('client', '/apiplatform/repository/public/organizations/30/apis/8031/versions/8196/definition');
+API.createClient('client', '#REF_TAG_DEFENITION');
 ```
 
 Retrieve a list of the Account resources belonging to the account used to make the
