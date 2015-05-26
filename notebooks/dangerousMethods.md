@@ -22,7 +22,7 @@ rootAccountSid = prompt("Please, enter your Account SID which can be found at ht
 
 ```javascript
 // Read about the Twilio RAML API at https://anypoint.mulesoft.com/apiplatform/popular/admin/#/dashboard/apis/8031/versions/8196/contracts
-API.createClient('client', '/apiplatform/repository/public/organizations/30/apis/8031/versions/8196/definition');
+API.createClient('client', '#REF_TAG_DEFENITION');
 ```
 
 ```javascript
